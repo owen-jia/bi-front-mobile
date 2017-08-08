@@ -49,6 +49,4 @@ new Vue({
     mounted: function(){
         console.log("this is init app")
     }
-});
-
-// appRouter.push("/login");
+})
