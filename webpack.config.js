@@ -40,11 +40,7 @@ module.exports = {
               test: /\.css$/,
               loader: 'style-loader!css-loader'
           }
-      ],
-      loaders: [{
-          test: require.resolve('zepto'),
-          loader: 'exports-loader?window.Zepto!script-loader'
-      }]
+      ]
   },
   resolve: {
     alias: {

@@ -17,8 +17,7 @@ const appRouter = new VueRouter({
         {
             path: '/',
             component: login
-        },
-        {
+        },{
             path: '/test',
             component: test
         },{

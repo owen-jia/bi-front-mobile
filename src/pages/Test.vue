@@ -30,7 +30,6 @@
 <script>
 
   import frozenui from 'frozenui'
-//  import $ from 'jquery'
 
   export default {
       name: 'test',
