@@ -1,6 +1,7 @@
 # bi-front-mobile
-
+基础构建环境sample，减少不必要的重复造轮子
 > a init project fro mobile
+> v1.0.0
 
 ## Build Setup
 
